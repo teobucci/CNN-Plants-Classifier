@@ -156,5 +156,4 @@ cython_debug/
 *.fdb_latexmk
 *.fls
 *.gz
-report/report.pdf
 models/*
