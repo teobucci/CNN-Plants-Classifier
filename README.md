@@ -39,9 +39,9 @@ This project was developed for the course of **Artificial Neural Networks and De
 
 ## Authors
 
-- Paolo Botta
-- Teo Bucci
-- Silvia Caresana
+- Paolo Botta ([@ploki99](https://github.com/ploki99))
+- Teo Bucci ([@teobucci](https://github.com/teobucci))
+- Silvia Caresana ([@silviacaresana](https://github.com/silviacaresana))
 
 ## Output
 
