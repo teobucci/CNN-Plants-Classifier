@@ -1,5 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/teobucci/CNN-Plants-Classifier?logo=github)
-
 # Convolutional Neural Network: Plants Species Classification
 
 This project was developed for the course of **Artificial Neural Networks and Deep Learning** for the MSc. in Mathematical Engineering at Politecnico di Milano, A.Y. 2022/2023.
